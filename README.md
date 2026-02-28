@@ -1,8 +1,10 @@
 # Hoja de Trabajo #4  
 ## Pilas, Listas y Evaluación de Expresiones
 
-##Integrantes:
+## Integrantes:
+
 Hector E. Duarte Lambour - 25939
+
 Edgar R. Guevara de Leon - 251154
 
 ### Descripción
